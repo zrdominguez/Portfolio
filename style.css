@@ -1,0 +1,63 @@
+
+body {
+  margin: 0;
+}
+header{
+  padding-top: 1%;
+}
+header h4 {
+  height: 60px;
+}
+.title{
+  font-family: inherit;
+  font-size: 50px;
+}
+main{
+  background-color: blanchedalmond;
+  padding-top: 2%;
+  margin-top: -3%;
+}
+
+footer {
+  padding: 0.5%;
+  margin-top: -1%;
+}
+
+header, footer {
+  text-align: center;
+  background-color: rgb(202, 116, 75);
+}
+
+
+article {
+  text-align: left;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+div {
+  text-align: center;
+  margin: auto;
+  width: 500px;
+}
+
+hr{
+  margin: 50px;
+  border-bottom: 1px solid black;
+}
+
+.contact-list {
+  padding-bottom: 50px;
+  margin-bottom: 0px;
+}
+
+a:link{
+  color: brown;
+}
+
+a:hover{
+  color: rgb(180, 112, 112);
+}
+
+a:visited {
+  color: rgb(138, 108, 88);
+}
